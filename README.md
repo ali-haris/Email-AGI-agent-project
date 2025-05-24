@@ -1,6 +1,6 @@
 # 📧 🤖 Email-AGI-agent
 
-An agentic System to automate end-to-end emails workflow Automation
+An agentic System to automate end-to-end emails workflow
 
 ## 💸 Business Outcome
 
