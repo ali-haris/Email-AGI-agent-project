@@ -1,6 +1,6 @@
-# 📧 🤖 Email-AGI-agent
+# 📧 🤖 Email AGI agent - Agenthacks, Hackathon 
 
-An agentic System to automate end-to-end emails workflow
+An agentic System to automate end-to-end emails workflow. This agent was build during <a href="https://www.agenthacks.org/">AgentHacks</a> hackathon.
 
 ## 💸 Business Outcome
 
