@@ -1,5 +1,7 @@
 # 📧 🤖 Email-AGI-agent
 
+An agentic System to automate end-to-end emails workflow Automation
+
 ## 💸 Business Outcome
 
 Run email account
