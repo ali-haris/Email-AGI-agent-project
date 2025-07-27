@@ -29,15 +29,4 @@ upload My_workflow.json file into n8n platform
 <a src="https://youtu.be/2SYyscbL2BY">https://youtu.be/2SYyscbL2BY</a>
 
 
-## 🔍 Our Overview of the Email AI agent
-
-### What We liked:
-
-- points
-
-### Our suggestions:
-
-- points
-
---- 
 
